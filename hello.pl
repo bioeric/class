@@ -2,7 +2,7 @@
 
 #Author - Cheng-Chao Lin PhD
 #print a string - hello vijay
-print "Hello Vijay \n";
+
 
 #variable
 $DNA = 'ACGGGAGGACGGGAAAATTACTACGGCATTAGC';
