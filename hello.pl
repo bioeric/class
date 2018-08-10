@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#Author - Vijay Nagarajan PhD
+#Author - Cheng-Chao Lin PhD
 #print a string - hello vijay
 print "Hello Vijay \n";
 
